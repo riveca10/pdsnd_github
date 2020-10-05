@@ -13,3 +13,4 @@ Include the files used
 ### Credits
 The websites below were pretty handy during the project:
 http://love-python.blogspot.com/
+https://www.learnpython.org/
