@@ -13,3 +13,6 @@ new_york_city.csv
 
 ### Credits
 Udacity's knowledge site helped me. Also Stack Over Flow forums were helpful.
+The websites below were pretty handy during the project:
+http://love-python.blogspot.com/
+https://www.learnpython.org/
