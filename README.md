@@ -1,8 +1,7 @@
 ### Date created
 This project was created on october 4, 2020.
 
-### US Bikeshare Data
-Replace the Project Title
+### US Bikeshare Data Project
 
 ### Description
 The project is about a python script that prompts the user to see  statistical data about three cities bike-sharing services. The cities are Washington, Chicago and New York City.
