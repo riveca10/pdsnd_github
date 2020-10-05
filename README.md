@@ -5,7 +5,7 @@ This project was created on october 4, 2020.
 Replace the Project Title
 
 ### Description
-The project is about a python script that prompts the user to see  statistical data about three cities bikesharing services.
+The project is about a python script that prompts the user to see  statistical data about three cities bike-sharing services. The cities are Washington, Chicago and New York City.
 
 ### Files used
 washington.csv
