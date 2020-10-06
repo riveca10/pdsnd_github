@@ -11,6 +11,9 @@ washington.csv
 chicago.csv
 new_york_city.csv
 
+### Author
+Ricardo I. Velásquez C.
+
 ### Credits
 Udacity's knowledge site helped me. Also Stack Over Flow forums were helpful.
 The websites below were pretty handy during the project:
